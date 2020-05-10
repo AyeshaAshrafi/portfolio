@@ -1,0 +1,12 @@
+div{
+    padding-left: 10 cm; background-color: rgb(91,91,255);
+}
+h1{
+    margin: 0;
+    padding-bottom: 1cm;
+}
+form{
+    border: 1cm;
+    margin: 0 auto;
+    width: 1160px;
+}
